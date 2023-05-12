@@ -8,10 +8,10 @@ In this challenge for the UofTor coding bootcamp, we had to adjust starter code 
 
 The dayplanner works by the user inputting their plans into the designated time block.  After the user clicks the save button, the value that they entered into the time block is saved in local storage.  When the page is reloaded, the value is retrieved from local storage and displayed in the time block, so the user does not need to retype the information everytime they load the page.  Additionally, if the time, time blocks that occur in the past are given a grey background,, red for the current time block, and green for future time blocks.  Also the current day is displayed in the header.
 
+Link to live site: https://sunderfire.github.io/work-day-planner-app/
     
 ![alt text](assets/images/workdayplannerscreenshot.png)
     
-
 ## Credits
 
 Critical documentation to my success included
